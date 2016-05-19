@@ -1,1 +1,1 @@
-[{"nombre":"vistos","contenido":{"Hotel A", "Hotel B"}},{"nombre":"nuevos","contenido":{"Hotel A", , "Hotel C"}}]
+[{"nombre":"vistos","contenido":["Hotel A", "Hotel B"]},{"nombre":"nuevos","contenido":["Hotel A", , "Hotel C"]}]
